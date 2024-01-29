@@ -12,3 +12,6 @@ I will use this GitHub profile to showcase my data science skills.
 - RStudio
 - Football
 - Piano
+
+git config --global user.name "Dev Pereira"
+git config --global user.email "d.m.pereira@lse.ac.uk"
